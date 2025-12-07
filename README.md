@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Hany from Cairo, Egypt.<br><br>- 🔭 I’m currently a Front-End Development Trainee at DEPI.<br>- 📚 I'm currently learning ReactJs.<br>- ⚡ In my free time I enjoy building side projects.</p>
+<p align="left">I'm Mohamed Hany from Cairo, Egypt.<br><br>- 🔭 I’m currently a Front-End Development Trainee at DEPI.<br>- 📚 I'm currently learning nodeJs, Express, MongoDB and Mongoose.<br>- ⚡ In my free time I enjoy building side projects.</p>
 
 ###
 
