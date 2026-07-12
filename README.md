@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Hany from Cairo, Egypt.<br><br>- 🔭 I’m currently building a fullstack erp-dashboard solution.<br>- 📚 I'm currently learning TypeScript.<br>
+<p align="left">I'm Mohamed Hany from Cairo, Egypt.<br><br>- 🔭 I’m currently building DomainPulse, a domain price data aggregator.<br>- 📚 I'm currently learning TypeScript.<br>
 
 ###
 
