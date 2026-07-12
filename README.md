@@ -76,6 +76,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohamedhanydev/mohamedhanydev/output/snake.svg" alt="Snake animation" />
-
-###
